@@ -1,0 +1,8 @@
+[project]
+name = "claude_stonks_agent"
+version = "0.0.1"
+description = "Example project for using Claude on Bedrock as an agent with tooling with Langchain"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
